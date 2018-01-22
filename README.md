@@ -1,6 +1,5 @@
 # Simulated-Annealing
 Simulated Annealing process to partition graph in VLSI.
-Python implementation of the above algorithm to Partition a graph.
 The file named Simulated_Annealing.py needs manual adjacency matrix input within the code.
 
 The file named SA_ISC works on a netlist of ISCA85 format. It needs input in thte form of a .isc file.
